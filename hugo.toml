@@ -1,0 +1,4 @@
+baseURL = "https://Prateek-Gupta001.github.io/Prateeks-Blog/"
+languageCode = "en-us"
+title = "Personal Blog"
+disableKinds = ["taxonomy", "term"] # Disables unnecessary tag/category generation to keep builds strict
