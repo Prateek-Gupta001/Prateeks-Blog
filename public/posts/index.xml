@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Personal Blog</title>
+    <link>http://localhost:1313/Prateeks-Blog/posts/</link>
+    <description>Recent content in Posts on Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2026 16:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/Prateeks-Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to use PPROF</title>
+      <link>http://localhost:1313/Prateeks-Blog/posts/first-one/</link>
+      <pubDate>Sun, 17 May 2026 16:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/Prateeks-Blog/posts/first-one/</guid>
+      <description>&lt;p&gt;This is my first post. The GitHub Action will detect the push, parse this file, and output a raw HTML file.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
